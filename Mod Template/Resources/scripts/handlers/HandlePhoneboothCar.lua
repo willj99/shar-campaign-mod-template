@@ -1,0 +1,1 @@
+--Output(ReadFile("/GameData/art/cars/"..GetPath():match([[art\frontend\dynaload\cars\([^.]+).p3d]])..".p3d"))
