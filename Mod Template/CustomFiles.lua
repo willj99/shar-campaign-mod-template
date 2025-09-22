@@ -24,8 +24,7 @@ Paths.Handlers = Paths.Resources.."/scripts/handlers"
 Paths.Missions = Paths.Resources.."/scripts/missions"
 
 -- Handlers
---dofile(Paths.Handlers .. "/HandleDialog.lua")
---dofile(Paths.Handlers .. "/HandleSpt.lua")
+dofile(Paths.Handlers .. "/HandleSpt.lua")
 
 -- Game.lua
 dofile(Paths.Modules .. "/game.lua")
