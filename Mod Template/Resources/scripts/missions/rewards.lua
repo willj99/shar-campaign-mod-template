@@ -18,9 +18,10 @@ Game.BindReward( "cDuff", "art\\cars\\cDuff.p3d", "car", "forsale", 1, 125, "gil
 Game.BindReward( "cVan", "art\\cars\\cVan.p3d", "car", "forsale", 1, 100, "gil" )
 
 Game.BindReward( "homer", "art\\chars\\homer_m.p3d", "skin", "defaultskin", 1 )
-Game.BindReward( "h_undrwr", "art\\chars\\h_undr_m.p3d", "skin", "forsale", 1, 100, "interior" )
-Game.BindReward( "h_fat", "art\\chars\\h_fat_m.p3d", "skin", "forsale", 1, 125, "interior" )
-Game.BindReward( "h_stcrobe", "art\\chars\\h_stcr_m.p3d", "skin", "forsale", 1, 150, "interior" )
+Game.BindReward( "h_josh", "art\\chars\\h_josh_m.p3d", "skin", "forsale", 1, 0, "interior" )
+Game.BindReward( "h_unk", "art\\chars\\h_unk_m.p3d", "skin", "forsale", 1, 0, "interior" )
+Game.BindReward( "h_duff", "art\\chars\\h_duff_m.p3d", "skin", "forsale", 1, 0, "interior" )
+Game.BindReward( "h_grog", "art\\chars\\h_grog_m.p3d", "skin", "forsale", 1, 0, "interior" )
 
 Game.SetTotalGags( 1, 15 )
 
